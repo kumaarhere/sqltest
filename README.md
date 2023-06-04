@@ -1,2 +1,2 @@
 # sqltest
-<h3>Database connection with login form using PHP.</h3>
+<h3>Connecting DataBase with login form using PHP.</h3>
